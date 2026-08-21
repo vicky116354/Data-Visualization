@@ -1,2 +1,2 @@
 # Data-Visualization
-mini project 
+mini project and case studies
